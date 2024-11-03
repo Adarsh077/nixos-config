@@ -78,6 +78,7 @@
     stripe-cli
     nodejs
     pnpm
+    screenfetch
   ];
 
   services.openssh.enable = true;
